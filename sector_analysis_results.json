@@ -1,0 +1,1468 @@
+{
+  "total_articles_analyzed": 100,
+  "sector_summary": {
+    "E-commerce/Online Retail": {
+      "average_impact": 16.2,
+      "max_impact": 26.42,
+      "frequency": 4,
+      "total_articles": 100,
+      "coverage_percentage": 4.0
+    },
+    "Real Estate": {
+      "average_impact": 10.37,
+      "max_impact": 14.59,
+      "frequency": 11,
+      "total_articles": 100,
+      "coverage_percentage": 11.0
+    },
+    "Healthcare": {
+      "average_impact": 12.93,
+      "max_impact": 21.03,
+      "frequency": 15,
+      "total_articles": 100,
+      "coverage_percentage": 15.0
+    },
+    "Technology/Digital Platforms": {
+      "average_impact": 14.18,
+      "max_impact": 20.59,
+      "frequency": 14,
+      "total_articles": 100,
+      "coverage_percentage": 14.0
+    },
+    "Financial Services": {
+      "average_impact": 11.55,
+      "max_impact": 11.55,
+      "frequency": 1,
+      "total_articles": 100,
+      "coverage_percentage": 1.0
+    },
+    "Energy": {
+      "average_impact": 14.57,
+      "max_impact": 25.34,
+      "frequency": 16,
+      "total_articles": 100,
+      "coverage_percentage": 16.0
+    },
+    "Fashion/Apparel": {
+      "average_impact": 12.55,
+      "max_impact": 19.89,
+      "frequency": 15,
+      "total_articles": 100,
+      "coverage_percentage": 15.0
+    },
+    "Agriculture/Food": {
+      "average_impact": 10.98,
+      "max_impact": 22.4,
+      "frequency": 14,
+      "total_articles": 100,
+      "coverage_percentage": 14.0
+    },
+    "Transportation/Logistics": {
+      "average_impact": 10.32,
+      "max_impact": 10.32,
+      "frequency": 1,
+      "total_articles": 100,
+      "coverage_percentage": 1.0
+    }
+  },
+  "individual_analyses": [
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news",
+      "impacts": [
+        {
+          "sector": "E-commerce/Online Retail",
+          "impact_percentage": 13.01,
+          "confidence_score": 0.325,
+          "key_factors": [
+            "law",
+            "fine",
+            "breach",
+            "competition"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.24,
+          "confidence_score": 0.242,
+          "key_factors": [
+            "17 mins ago\nAsia\nWhat you need to know ahead of South Korea's snap presidential election\nThe vote comes after the impeachment and removal of former president Yoon Suk Yeol"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news#main-content",
+      "impacts": [
+        {
+          "sector": "E-commerce/Online Retail",
+          "impact_percentage": 13.01,
+          "confidence_score": 0.325,
+          "key_factors": [
+            "law",
+            "fine",
+            "breach",
+            "competition"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.24,
+          "confidence_score": 0.242,
+          "key_factors": [
+            "17 mins ago\nAsia\nWhat you need to know ahead of South Korea's snap presidential election\nThe vote comes after the impeachment and removal of former president Yoon Suk Yeol"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "US envoy rejects Hamas claim that it has agreed to American terms for a Gaza ceasefire",
+      "article_url": "https://www.bbc.com/",
+      "impacts": [
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 14.59,
+          "confidence_score": 0.384,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "BBC Sport",
+      "article_url": "https://www.bbc.com/sport",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 10.04,
+          "confidence_score": 0.263,
+          "key_factors": [
+            "Â\nDozens injured after car ploughs into Liverpool crowd as police say not terror-related\nLiverpool City Region Mayor Steve Rotheram cautions against speculation, after 27 people were taken to hospital"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Business",
+      "article_url": "https://www.bbc.com/business",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 15.85,
+          "confidence_score": 0.426,
+          "key_factors": [
+            "cybersecurity"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "E-commerce/Online Retail",
+          "impact_percentage": 12.34,
+          "confidence_score": 0.325,
+          "key_factors": [
+            "law",
+            "fine",
+            "breach",
+            "growth",
+            "4 hrs ago\nBusiness\nFake discounts on Shein 'breach law', EU says\nShein has one month to respond to the EU's findings or face fines based on its sales, the bloc has said"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Financial Services",
+          "impact_percentage": 11.55,
+          "confidence_score": 0.306,
+          "key_factors": [
+            "cryptocurrency"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Innovation",
+      "article_url": "https://www.bbc.com/innovation",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 14.31,
+          "confidence_score": 0.397,
+          "key_factors": [
+            "Innovation\nShould you ever cut ties with your parents?\nEstrangement between parents and their children is surprisingly common – this is what research says about making such a difficult decision"
+          ],
+          "impact_type": "neutral"
+        },
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 11.72,
+          "confidence_score": 0.316,
+          "key_factors": [
+            "research"
+          ],
+          "impact_type": "neutral"
+        },
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.19,
+          "confidence_score": 0.256,
+          "key_factors": [],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Culture",
+      "article_url": "https://www.bbc.com/culture",
+      "impacts": []
+    },
+    {
+      "article_title": "Arts",
+      "article_url": "https://www.bbc.com/arts",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 10.99,
+          "confidence_score": 0.299,
+          "key_factors": [
+            "production",
+            "labor"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Travel",
+      "article_url": "https://www.bbc.com/travel",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.52,
+          "confidence_score": 0.256,
+          "key_factors": [
+            "2 days ago\nTravel\nThe 25 best places to travel in 2025\nFrom bubblegum-coloured lakes in Australia to a solar-powered safari camp in Botswana, these are BBC journalists' top destinations this year"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Earth",
+      "article_url": "https://www.bbc.com/future-planet",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 21.99,
+          "confidence_score": 0.487,
+          "key_factors": [
+            "The Soviet nuclear plan to reverse Siberian rivers\nTensions rise as superpowers scrap for a piece of the Arctic\nSubscribe to Future Earth\nMore climate news\nOsprey pair's third chick of the year hatches\n4 hrs ago\nDorset\n'Sheep eater' tropical plant flowers after decade\n4 hrs ago\nHampshire & Isle of Wight\nBattery farms are 'emerging risk', says fire chief\n4 hrs ago\nSuffolk\nRamsay to meet fire chief over battery farm safety\n4 hrs ago\nNorfolk\nStaiths progress slow but steady, chiefs say\n1 day ago\nTyne\nFuture Planet\nThe surprising benefits of rattlesnakes\nReports of human-snake encounters are on the rise – and some people react to a snake on their property by killing it",
+            "But is there a better way, for both people and the reptiles?\n17 May 2025\nFuture\nRenewable energy's trouble with 'wind theft'\nAs wind farms expand, some can accidentally \"steal\" each others' wind – causing worries over some countries' energy transition to net zero"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Audio",
+      "article_url": "https://www.bbc.com/audio",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 10.75,
+          "confidence_score": 0.284,
+          "key_factors": [
+            "Audio\nDiddy On Trial\nKid Cudi: ‘Porsche destroyed by Molotov cocktail’\nThe rapper says it happened after Diddy allegedly made threats over Cassie relationship\n28 mins\nSave\nThis Week in Audio\nThe Documentary Podcast\nPeople Fixing the World: Helping Chile's stolen children\nSave\nWhat's Up Docs?\nShould I worry about microplastics?\nSave\nThe Interview\nDovilė Šakalienė, Defence Minister of Lithuania: Uncertain times for Europe\nSave\nBusiness Daily\nValencia: Recovering from the floods\nSave\nThe Climate Question\nWhat makes a good climate novel?\nSave\nDiddy On Trial\nExpert witness, seized items and hotel clean ups\nSave\nIn Our Time\nMolière\nSave\nWitness History\nThe founding of Magnum Photos\nSave\nFrom the world's newsroom\nUS envoy rejects Hamas claim that it has agreed to American terms for a Gaza ceasefire\nThe developments came as Israel continued its bombardment of Gaza\n32 mins\nSave\nNewshour\nInside a hospital in Southern Gaza bracing for a new Israeli offensive\nSave\nWorld Business Report\nThe trillion dollar court battle\nSave\nWorld Business Report\nOptimism over US-EU trade talks\nSave\nNewshour\nIsrael orders Palestinians to evacuate Khan Younis\nSave\nNewshour\nIsraeli government responds to deaths of children in Gaza\nSave\nNewshour\nSpain calls for arms embargo against Israel\nSave\nNewshour\nGazan doctor loses nine children in Israeli strike\nSave\nNewshour\nRussia, Ukraine conduct biggest prisoner swap to date\nSave\nFrom Our Own Correspondent\nTurkey’s chance for peace\nSave\nNewshour\nTrump threatens 50% tariffs on EU and 25% on iPhones\nSave\nAmericast\nWhy did Trump ambush the South African president?\nSave\nNewshour\nIsraeli military says it's struck more than 75 'terror targets'\nSave\nWorld Service\nNews & views from the BBC's international radio station",
+            "Schedule\nWitness History\nWitness History\nVivian Maier: Secret street photographer\nThe secret street photography of a US nanny in the 1950s and 1960s\n10 mins\nSave\nSociety and culture\nThe Documentary Podcast\nBBC OS Conversations: Living with prostate cancer\nSave\nThe Documentary Podcast\nHeart and Soul: Musambwa - Lake Victoria's sacred island\nSave\nThe Documentary Podcast\nBBC Trending: Brazilian farmers are (very) online\nSave\nThe Documentary Podcast\nAssignment: Colombia's webcam women\nSave\nThe Documentary Podcast\nIn the Studio: Esben Holmboe Bang\nSave\nThe Documentary Podcast\nBBC OS Conversations: Living in Kashmir\nSave\nThe Documentary Podcast\nThe Fifth Floor: Ukraine, the war and TikTok\nSave\nThe Next Generation\nBusiness Daily\nSocial shopping: The battle for Gen Z\nSave\nGlobal News Podcast\nThe Happy Pod: The young people changing the world\nSave\nAfrica Daily\nCan storytelling help reconnect diaspora children to their culture?\nSave\nWhat in the World\nSkincare trends: Are they causing harm to young people?\nSave\nThe Global Story\nWhy young people are having less sex\nSave\nBBC Inside Science\nHow social media can affect the health of teenagers\nSave\nThe Today Podcast\nAdolescence and the Crisis of Masculinity\nSave\nSound Advice\nDesert Island Discs\nCyndi Lauper, singer-songwriter\nSave\nDesert Island Discs\nNick Cave, singer and writer\nSave\nDesert Island Discs\nCher, singer and actor\nSave\nDesert Island Discs\nGraham Nash, musician\nSave\nDesert Island Discs\nShirley Collins, folk singer\nSave\nDesert Island Discs\nJohn Legend, musician\nSave\nDesert Island Discs\nAdele, singer and songwriter\nSave\nDesert Island Discs\nBono, singer and songwriter\nSave\nFetching results\nFetching results\nFetching results\nExplore by category\nBusiness\nComedy\nHistory\nNews\nScience and health\nSociety and culture\nSport\nTrue crime"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.68,
+          "confidence_score": 0.26,
+          "key_factors": [
+            "Audio\nDiddy On Trial\nKid Cudi: ‘Porsche destroyed by Molotov cocktail’\nThe rapper says it happened after Diddy allegedly made threats over Cassie relationship\n28 mins\nSave\nThis Week in Audio\nThe Documentary Podcast\nPeople Fixing the World: Helping Chile's stolen children\nSave\nWhat's Up Docs?\nShould I worry about microplastics?\nSave\nThe Interview\nDovilė Šakalienė, Defence Minister of Lithuania: Uncertain times for Europe\nSave\nBusiness Daily\nValencia: Recovering from the floods\nSave\nThe Climate Question\nWhat makes a good climate novel?\nSave\nDiddy On Trial\nExpert witness, seized items and hotel clean ups\nSave\nIn Our Time\nMolière\nSave\nWitness History\nThe founding of Magnum Photos\nSave\nFrom the world's newsroom\nUS envoy rejects Hamas claim that it has agreed to American terms for a Gaza ceasefire\nThe developments came as Israel continued its bombardment of Gaza\n32 mins\nSave\nNewshour\nInside a hospital in Southern Gaza bracing for a new Israeli offensive\nSave\nWorld Business Report\nThe trillion dollar court battle\nSave\nWorld Business Report\nOptimism over US-EU trade talks\nSave\nNewshour\nIsrael orders Palestinians to evacuate Khan Younis\nSave\nNewshour\nIsraeli government responds to deaths of children in Gaza\nSave\nNewshour\nSpain calls for arms embargo against Israel\nSave\nNewshour\nGazan doctor loses nine children in Israeli strike\nSave\nNewshour\nRussia, Ukraine conduct biggest prisoner swap to date\nSave\nFrom Our Own Correspondent\nTurkey’s chance for peace\nSave\nNewshour\nTrump threatens 50% tariffs on EU and 25% on iPhones\nSave\nAmericast\nWhy did Trump ambush the South African president?\nSave\nNewshour\nIsraeli military says it's struck more than 75 'terror targets'\nSave\nWorld Service\nNews & views from the BBC's international radio station",
+            "Schedule\nWitness History\nWitness History\nVivian Maier: Secret street photographer\nThe secret street photography of a US nanny in the 1950s and 1960s\n10 mins\nSave\nSociety and culture\nThe Documentary Podcast\nBBC OS Conversations: Living with prostate cancer\nSave\nThe Documentary Podcast\nHeart and Soul: Musambwa - Lake Victoria's sacred island\nSave\nThe Documentary Podcast\nBBC Trending: Brazilian farmers are (very) online\nSave\nThe Documentary Podcast\nAssignment: Colombia's webcam women\nSave\nThe Documentary Podcast\nIn the Studio: Esben Holmboe Bang\nSave\nThe Documentary Podcast\nBBC OS Conversations: Living in Kashmir\nSave\nThe Documentary Podcast\nThe Fifth Floor: Ukraine, the war and TikTok\nSave\nThe Next Generation\nBusiness Daily\nSocial shopping: The battle for Gen Z\nSave\nGlobal News Podcast\nThe Happy Pod: The young people changing the world\nSave\nAfrica Daily\nCan storytelling help reconnect diaspora children to their culture?\nSave\nWhat in the World\nSkincare trends: Are they causing harm to young people?\nSave\nThe Global Story\nWhy young people are having less sex\nSave\nBBC Inside Science\nHow social media can affect the health of teenagers\nSave\nThe Today Podcast\nAdolescence and the Crisis of Masculinity\nSave\nSound Advice\nDesert Island Discs\nCyndi Lauper, singer-songwriter\nSave\nDesert Island Discs\nNick Cave, singer and writer\nSave\nDesert Island Discs\nCher, singer and actor\nSave\nDesert Island Discs\nGraham Nash, musician\nSave\nDesert Island Discs\nShirley Collins, folk singer\nSave\nDesert Island Discs\nJohn Legend, musician\nSave\nDesert Island Discs\nAdele, singer and songwriter\nSave\nDesert Island Discs\nBono, singer and songwriter\nSave\nFetching results\nFetching results\nFetching results\nExplore by category\nBusiness\nComedy\nHistory\nNews\nScience and health\nSociety and culture\nSport\nTrue crime"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Video",
+      "article_url": "https://www.bbc.com/video",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 19.98,
+          "confidence_score": 0.45,
+          "key_factors": [
+            "11 hours ago\nShare\nExplore More\nBBC given rare access to search for Hezbollah positions with UN troops in Lebanon\n3 hrs ago\nMiddle East\nYoung girl escapes burning Gaza school after Israeli attack\n16 hrs ago\nMiddle East\nAn inside look at how the Internet Archive saves the web\n15 hrs ago\nTech Now\nMoment truck explodes while driving through Chicago suburb\n10 hrs ago\nUS & Canada\nWatch: Push in the face by wife was joke not domestic dispute, says Macron\n21 hrs ago\nEurope\nHumanoid robots fight in Chinese kick-boxing competition\n1 day ago\nAsia\nWatch an emotional rendition of We Shall Overcome\n1 day ago\nCulture & Experiences\nThe 'Big Four' reunite for Nadal at Roland Garros\n2 days ago\nTennis\nEditor's picks\nWhere the Amish go on holiday\nPhotographer Dina Litovsky has been photographing the Amish 'Las Vegas' since 2018"
+          ],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Live Now",
+      "article_url": "https://www.bbc.com/live",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.19,
+          "confidence_score": 0.256,
+          "key_factors": [
+            "See how it played out\nEngland beat Windies by 17 runs to claim T20 series clean sweep - as it happened\nFollow live text, radio commentary and in-play video clips as England face West Indies in the third T20 at Chelmsford"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 14.67,
+          "confidence_score": 0.405,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/war-in-ukraine",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/us-canada",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.0,
+          "confidence_score": 0.24,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/uk",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 12.43,
+          "confidence_score": 0.32,
+          "key_factors": [
+            "weather",
+            "climate change"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 10.84,
+          "confidence_score": 0.284,
+          "key_factors": [
+            "News\nNews\nUK\nFour children injured as car hits Liverpool crowd\nTwenty-seven people were taken to hospital, and two suffered serious injuries",
+            "4 hrs ago\nHealth\nVote no in strike ballot, health secretary urges doctors\nResident doctors unhappy with 5"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/africa",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/asia",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 11.74,
+          "confidence_score": 0.287,
+          "key_factors": [
+            "privacy"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.6,
+          "confidence_score": 0.242,
+          "key_factors": [
+            "49 mins ago\nWorld\nWhat you need to know ahead of South Korea's snap presidential election\nThe vote comes after the impeachment and removal of former president Yoon Suk Yeol",
+            "11 hrs ago\nAsia\nFrom prodigy to leader: Can Shubman Gill shape the future of Indian Test cricket?\nTo pull India out of the current rut, Gill will have to lead the way as batter and captain in charge of a new-look team"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/australia",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/europe",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 10.74,
+          "confidence_score": 0.275,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/latin_america",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.99,
+          "confidence_score": 0.275,
+          "key_factors": [],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/middle_east",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/in_pictures",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/bbcindepth",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/bbcverify",
+      "impacts": [
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.48,
+          "confidence_score": 0.263,
+          "key_factors": [
+            "7 days ago\nMiddle East\nConstruction sites appear in Gaza ahead of Israeli-US aid plan rejected by UN, images show\nSatellite images show building at sites in south Gaza after US says controversial Israeli aid plan to proceed"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "BBC Homepage",
+      "article_url": "https://www.bbc.com/home",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 11.72,
+          "confidence_score": 0.316,
+          "key_factors": [
+            "cost",
+            "Â\nDozens injured after car ploughs into Liverpool crowd as police say not terror-related\nLiverpool City Region Mayor Steve Rotheram cautions against speculation, after 27 people were taken to hospital",
+            "Video, 00:01:19\nWatch: Moment car drives into crowd in Liverpool\nAttribution\nLiverpool\n1:19\nGreek coastguards charged over 2023 migrant shipwreck\nAttribution\nEurope\nLeaked recording reveals police doubts over womanâs abortion arrest\nAttribution\nHealth\nHigher-level apprenticeship funding to be scrapped as focus shifts to under-21s\nAttribution\nFamily & Education\nBBC given rare access to search for Hezbollah positions with UN troops in Lebanon",
+            "Video, 00:02:27\nBBC given rare access to search for Hezbollah positions with UN troops in Lebanon\nAttribution\nMiddle East\n2:27\nKing to give key speech in support of Canada after its dispute with Trump\nAttribution\nUS & Canada\nVote no in strike ballot, health secretary urges doctors\nAttribution\nHealth\nSport headlines\nKeep up with the latest from BBC Sport\nHartley back with England after shifts in garden centre\nAttribution\nCricket\nComments\n55\n'Poor' decision by PGMOL to pick Bramall for Villa game - Hackett\nAttribution\nAston Villa\nMan Utd close to signing Wolves' Cunha\nAttribution\nFootball\nComments\n2482\nF1 Q&A: Would Monaco have been better without two-stop rule?\nAttribution\nFormula 1\n'I hate disappointing people' - Osaka loses to Badosa\nAttribution\nTennis\nView more\nAround the UK\nThe top stories from England, Scotland, Wales and Northern Ireland\nPrison violence harming rehabilitation - families\nAttribution\nStoke & Staffordshire\nDry heat to torrential rain - enter the age of 'weather whiplash'\nAttribution\nScotland\nThousands could unknowingly have alcohol brain damage\nAttribution\nWales\nNI Liverpool fan released from hospital after being struck by car at parade\nAttribution\nNorthern Ireland\nFind your regional news\nAttribution\nNews\nView more\nEntertainment and TV\nLatest news and must-see moments\nLive"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 9.94,
+          "confidence_score": 0.274,
+          "key_factors": [
+            "waste"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/politics",
+      "impacts": [
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 14.39,
+          "confidence_score": 0.384,
+          "key_factors": [
+            "News\nNews\nUK\nApprenticeship shake-up to shift focus to under-21s\nThe government will no longer fund some courses for older learners in order to boost entry level training places"
+          ],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 9.68,
+          "confidence_score": 0.258,
+          "key_factors": [
+            "News\nNews\nUK\nApprenticeship shake-up to shift focus to under-21s\nThe government will no longer fund some courses for older learners in order to boost entry level training places",
+            "8 hrs ago\nFamily & Education\nStreeting urges doctors to vote no in strike ballot\nResident doctors unhappy with 5"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/england",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 10.84,
+          "confidence_score": 0.284,
+          "key_factors": [
+            "News\nNews\nUK\nLIVE\nDozens injured after car ploughs into Liverpool crowd as police say not terror-related\nLiverpool City Region Mayor Steve Rotheram cautions against speculation, after 27 people were taken to hospital",
+            "3 hrs ago\nEngland\n'I don't like having people see mould in my home'\nKaroon Islaaw says the flat is \"dangerous\" because she believes the mould poses a risk to her health"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/northern_ireland",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 10.38,
+          "confidence_score": 0.284,
+          "key_factors": [
+            "Ireland\nNI Liverpool fan in hospital after being struck by car at parade\nJack Trotter from Newtownards, County Down, tells BBC News NI he is in \"absolute agony\" after the incident on Water Street"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.48,
+          "confidence_score": 0.263,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/scotland",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 12.32,
+          "confidence_score": 0.32,
+          "key_factors": [
+            "weather",
+            "climate change",
+            "15 hrs ago\nScotland\nNew powers to shoot ravens after livestock attacks\nFarmers say the birds have killed and injured lambs, sheep and calves, causing distress and financial losses"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/scotland/scotland_politics",
+      "impacts": [
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.48,
+          "confidence_score": 0.263,
+          "key_factors": [
+            "News\nNews\nScotland\nSwinney accuses Reform of racism over Sarwar advert\nThe first minister has urged Facebook's parent company Meta to remove the \"unacceptable\" video"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/wales",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/wales/wales_politics",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 9.09,
+          "confidence_score": 0.242,
+          "key_factors": [
+            "3 days ago\nWales\nI won't get all the money I want from Starmer - FM\nEluned Morgan urges people to be patient with funding after meeting Sir Keir Starmer in London"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/asia/china",
+      "impacts": []
+    },
+    {
+      "article_title": "NewsNews",
+      "article_url": "https://www.bbc.com/news/world/asia/india",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.14,
+          "confidence_score": 0.24,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Executive Lounge",
+      "article_url": "https://www.bbc.com/business/executive-lounge",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 13.49,
+          "confidence_score": 0.377,
+          "key_factors": [
+            "31 Oct 2024\nBusiness\nHow Duolingo became so addicting, according to its CEO\nPerhaps no app has mastered user loyalty quite like Duolingo, the gamified language-learning platform 34 million people a day can't put down"
+          ],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 8.9,
+          "confidence_score": 0.249,
+          "key_factors": [
+            "See more\nHow one product made a multi-million dollar brand\nNell Diamond, CEO of Hill House Home, shares how her small business skyrocketed to global success with the launch of the Nap Dress in 2019"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Technology of Business",
+      "article_url": "https://www.bbc.com/business/technology-of-business",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 15.55,
+          "confidence_score": 0.426,
+          "key_factors": [
+            "cybersecurity",
+            "Technology of Business\nFrugal tech: The start-ups working on cheap innovation\nIndian start-ups are using local materials and innovative ideas to make useful and affordable products",
+            "12 May 2025\nUS & Canada\nVisit the Arctic vault holding back-ups of great works\nAn arctic vault holds digital back-ups of some of humanity's great works of art, history and technology"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Future of Business",
+      "article_url": "https://www.bbc.com/business/future-of-business",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 17.98,
+          "confidence_score": 0.469,
+          "key_factors": [
+            "supply",
+            "energy storage"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 14.82,
+          "confidence_score": 0.397,
+          "key_factors": [
+            "Future of Business\nFrugal tech: The start-ups working on cheap innovation\nIndian start-ups are using local materials and innovative ideas to make useful and affordable products",
+            "4 days ago\nTechnology\n'Give it time': ScotRail defends AI announcer Iona\nA new synthetic voice is being introduced across Scotland's trains to deliver onboard announcements"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Technology",
+      "article_url": "https://www.bbc.com/innovation/technology",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 20.59,
+          "confidence_score": 0.465,
+          "key_factors": [
+            "cybersecurity",
+            "Technology\nShould children at nursery have screen time?\nThe World Health Organization recommends children under five spend no more than one hour a day looking at a screen",
+            "2 days ago\nWales\nNew York crypto investor accused of kidnapping Italian tourist\nHe allegedly imprisoned and tortured the victim for many week in a SoHo home in order to collect ransom"
+          ],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Science & Health",
+      "article_url": "https://www.bbc.com/innovation/science",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 20.31,
+          "confidence_score": 0.458,
+          "key_factors": [
+            "research",
+            "Science & Health\nShould you ever cut ties with your parents?\nEstrangement between parents and their children is surprisingly common – this is what research says about making such a difficult decision",
+            "See more\nShould children at nursery have screen time?\nThe World Health Organization recommends children under five spend no more than one hour a day looking at a screen",
+            "22 hrs ago\nAsia\n'You'd wish you were dead': Exploring the smells of outer space\n2 days ago\nFuture\nAn intimate look at health workers' lives during the pandemic\n4 days ago\nFuture\n'I don't know what we'll do': UK vapers panic-buy ahead of disposables ban\n3 days ago\nHealth\nWhat did dinosaurs sound like?\n4 days ago\nFuture\nEight simple steps to help you live longer\nWe look at eight simple lifestyle steps you can take to help improve and extend your life",
+            "15 May 2025\nShare\nExplore More\nHow your 'second brain' changes the way you think\n1 May 2025\nHealth Decoded\nWhy you might be younger than you think you are\n16 Apr 2025\nHealth Decoded\nThe 'healthier' sweetener that could replace sugar\n3 Apr 2025\nHealth Decoded\nA powerful way to improve your fitness\n20 Mar 2025\nHealth Decoded\nWhy drinking coffee can benefit your health\n6 Mar 2025\nHealth Decoded\nHow to change your personality traits with intention\n20 Feb 2025\nHealth Decoded\nHow you can think yourself well\n6 Feb 2025\nHealth Decoded\nWhy being a 'loner' could be good for you\n23 Jan 2025\nHealth Decoded\nAn eating habit that helps you maintain a healthy weight\n9 Jan 2025\nHealth Decoded\nA simple practice that is good for stress\n19 Dec 2024\nHealth Decoded\nHow immersion in nature can make you feel calmer\n5 Dec 2024\nHealth Decoded\nThe benefits of being a 'weekend warrior'\n21 Nov 2024\nHealth Decoded\nWhy friendships are key to living longer\n7 Nov 2024\nHealth Decoded\nHow to reset your brain with your breath\n10 Oct 2024\nHealth Decoded\nThe vegetable that can protect you from cancer\n26 Sep 2024\nHealth Decoded\nA simple and tasty way to reduce wrinkles and keep your skin healthy\n12 Sep 2024\nHealth Decoded\nWhy improving your nutrition will help you think better\n29 Aug 2024\nHealth Decoded\nThe surprising benefits of self-soothing touch\n15 Aug 2024\nHealth Decoded\nHow your gut microbes shape your health\n25 Jul 2024\nHealth Decoded\nIs cold water swimming good for you?\n12 Jul 2024\nScience & Health\nWhy women 'need less exercise than men'\n28 Jun 2024\nScience & Health\nHow 'tapping therapy' can help calm your mind\n14 Jun 2024\nHealth Decoded\nCan this mineral help reduce anxiety?\n1 Jun 2024\nScience & Health\nSubscribe to Health Fix\nHealth Fix\nTrusted insights for better health and wellbeing rooted in science, every Wednesday to your inbox"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Artificial Intelligence",
+      "article_url": "https://www.bbc.com/innovation/artificial-intelligence",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 19.89,
+          "confidence_score": 0.448,
+          "key_factors": [
+            "waste",
+            "sales",
+            "4 days ago\nScotland\n'World's greatest designer' Jony Ive joins OpenAI to 'reimagine' computers\nThe man who designed the iPad, iMac and iPhone will try to come up with a new generation of products for the AI era"
+          ],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 18.54,
+          "confidence_score": 0.416,
+          "key_factors": [
+            "4 days ago\nTechnology\n'Give it time': ScotRail defends AI announcer Iona\nA new synthetic voice is being introduced across Scotland's trains to deliver onboard announcements",
+            "5 days ago\nTechnology\nNvidia boss calls US chip policy a 'failure'\nHis comments come as the White House says it will overhaul rules restricting sales of advanced chips"
+          ],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 14.67,
+          "confidence_score": 0.405,
+          "key_factors": [],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.35,
+          "confidence_score": 0.26,
+          "key_factors": [],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "AI v the Mind",
+      "article_url": "https://www.bbc.com/innovation/ai-v-the-mind",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 18.54,
+          "confidence_score": 0.416,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Film & TV",
+      "article_url": "https://www.bbc.com/culture/film-tv",
+      "impacts": []
+    },
+    {
+      "article_title": "Music",
+      "article_url": "https://www.bbc.com/culture/music",
+      "impacts": []
+    },
+    {
+      "article_title": "Art & Design",
+      "article_url": "https://www.bbc.com/culture/art",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 14.04,
+          "confidence_score": 0.39,
+          "key_factors": [
+            "sustainable",
+            "Art & Design\nIndia's colonial past revealed through 200 masterful paintings\nA new show in Delhi features more than 200 paintings commissioned by the East India Company",
+            "See more\nLatest headlines\nPride fringe festival returns with a roller-disco\n4 hrs ago\nSuffolk\nYouth charity takes over High Street art gallery\n1 day ago\nSuffolk\nUnderpass art to represent 'light and positivity'\n1 day ago\nBeds, Herts & Bucks\nScarecrow festival to celebrate Yorkshire people\n2 days ago\nHull & East Yorkshire\nMeet the man who sketched the Sycamore Gap trial\n2 days ago\nEngland\nFeatures\nWhy space-age design is back in fashion\nSpace-age style is skyrocketing in pop culture"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Style",
+      "article_url": "https://www.bbc.com/culture/style",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 18.78,
+          "confidence_score": 0.407,
+          "key_factors": [
+            "factory",
+            "Style\nHow I learned to love my curls after years of abusing them\nI spent years abusing my juicy thick curls with 200°C heat in an effort to fit in with the crowd",
+            "16 Apr 2025\nCulture\nCandid street photos showcasing amazing looks\nHow street-style photography has evolved from the Edwardian era to today",
+            "Now it is exploding – and turning fashion upside down",
+            "26 Mar 2025\nCulture\nThe US style star fighting against 'quiet luxury'\nChristopher John Rogers’s bold designs have made him the new star of US fashion"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Books",
+      "article_url": "https://www.bbc.com/culture/books",
+      "impacts": []
+    },
+    {
+      "article_title": "Entertainment & Arts",
+      "article_url": "https://www.bbc.com/culture/entertainment-news",
+      "impacts": []
+    },
+    {
+      "article_title": "Arts in Motion",
+      "article_url": "https://www.bbc.com/arts/arts-in-motion",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 9.25,
+          "confidence_score": 0.258,
+          "key_factors": [
+            "labor",
+            "30 videos\n'Maybe Venice is the city that can save the world'\nAt the 2025 Venice Architecture Biennale, curator Carlo Ratti asks: can design help us adapt to a changing world?\n24 hours ago\nShare\nExplore More\nRolex and the arts: cultivating talent\nAdvertisement\nBrian Cox on the hard truth about acting\n19 May 2025\nArts in Motion\nSinfonía por el Perú: Changing lives through music\n12 May 2025\nArts in Motion\nSteven Isserlis: 'I want to be a voice in their heads'\n5 May 2025\nArts in Motion\nYannick Nézet-Séguin: From child prodigy to modern maestro\n21 Apr 2025\nArts in Motion\n'Keep going, keep going, keep going'\n7 Apr 2025\nArts in Motion\nWhy Yinka Shonibare doesn't believe in tearing down statues\n24 Mar 2025\nArts in Motion\nTeatro alla Scala: See the magic and mystery of opera\n17 Mar 2025\nArts in Motion\nStep inside Hollywood's ultimate time capsule\n10 Mar 2025\nArts in Motion\nSteven Isserlis on why you're more musical than you think\n7 Mar 2025\nArts in Motion\nNothing brings more freedom than filmmaking, Jia Zhang-Ke\n17 Feb 2025\nArts in Motion\nHew Locke on why art is important in a fractious world\n17 Feb 2025\nArts in Motion\nBenjamin Bernheim reveals the secret to captivating crowds\n10 Feb 2025\nArts in Motion\nInside the studio of Britain's most celebrated sculptor\n20 Jan 2025\nArts in Motion\nWhitney White on how Shakespeare still resonates today\n13 Jan 2025\nArts in Motion\nAntony Gormley on how play can unleash your creativity\n6 Jan 2025\nArts in Motion\nBrian Cox on why you should keep your inner child alive\n30 Dec 2024\nArts in Motion\nSee behind the scenes of artist Alvaro Barrington's studio\n16 Dec 2024\nArts in Motion\nInside one of the world's biggest classical music festivals\n23 Dec 2024\nArts in Motion\n‘I really do not want to practice’\n9 Dec 2024\nArts in Motion\nA look behind the scenes at London's Royal Drawing School\n2 Dec 2024\nArts in Motion\nExplore Anoushka Shankar's genre-defying style\n25 Nov 2024\nArts in Motion\nAn acting masterclass with Succession's Brian Cox\n16 Sep 2024\nArts in Motion\nA legend of contemporary art reveals his inspiration\n21 Oct 2024\nArts in Motion\nExperience artist Es Devlin's powerful new work\n14 Oct 2024\nArts in Motion\nVienna Philharmonic: See the magic of the great orchestra\n30 Sep 2024\nArts in Motion\nNovelist Elif Shafak on what inspires her to write\n16 Sep 2024\nArts in Motion\nWatch a sensational performance of Nessun Dorma\n16 Sep 2024\nArts in Motion\nBehind the scenes at London's Royal Ballet and Opera\n16 Sep 2024\nArts in Motion"
+          ],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations",
+      "impacts": []
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/africa",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 15.14,
+          "confidence_score": 0.416,
+          "key_factors": [],
+          "impact_type": "positive"
+        },
+        {
+          "sector": "Energy",
+          "impact_percentage": 13.39,
+          "confidence_score": 0.375,
+          "key_factors": [],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/antarctica",
+      "impacts": []
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/asia",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 15.14,
+          "confidence_score": 0.382,
+          "key_factors": [
+            "14 Mar 2023\nTravel\nFive countries that are safer for women\nDespite the growing trend in solo travel, women still encounter challenges when they travel abroad alone",
+            "14 Mar 2023\nTravel\nFive countries that are safer for women\nDespite the growing trend in solo travel, women still encounter challenges when they travel abroad alone"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 10.49,
+          "confidence_score": 0.263,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/australia-and-pacific",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 9.25,
+          "confidence_score": 0.258,
+          "key_factors": [
+            "sustainable"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/caribbean",
+      "impacts": []
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/central-america",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 11.56,
+          "confidence_score": 0.29,
+          "key_factors": [
+            "climate change",
+            "15 Apr 2023\nTravel\nIs this the next smoothie trend?\nIn southern Belize, a sweet and creamy heritage drink made from seaweed has become a symbol of the country's sustainable underwater farming initiatives",
+            "15 Apr 2023\nTravel\nIs this the next smoothie trend?\nIn southern Belize, a sweet and creamy heritage drink made from seaweed has become a symbol of the country's sustainable underwater farming initiatives"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/europe",
+      "impacts": []
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/middle-east",
+      "impacts": [
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 8.59,
+          "confidence_score": 0.242,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/north-america",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 10.18,
+          "confidence_score": 0.26,
+          "key_factors": [],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Destinations",
+      "article_url": "https://www.bbc.com/travel/destinations/south-america",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 14.52,
+          "confidence_score": 0.374,
+          "key_factors": [
+            "environmental",
+            "Destinations\nHow huge statues 'walked' 900 years ago\nLiving on a remote, barren isle bestowed with few resources, the Rapanui needed to combine ingenious design with flawless sculpting to move the massive moai without any machinery",
+            "11 Oct 2022\nTravel\nHow huge statues 'walked' 900 years ago\nLiving on a remote, barren isle bestowed with few resources, the Rapanui needed to combine ingenious design with flawless sculpting to move the massive moai without any machinery"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "World’s Table",
+      "article_url": "https://www.bbc.com/travel/worlds-table",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.35,
+          "confidence_score": 0.26,
+          "key_factors": [
+            "World’s Table\nWhat happens to family recipes when home is lost?\nA new book uses food to help humanise the people and places impacted by war",
+            "8 days ago\nTravel\nThe flawless biscuit that took years to master\nAcclaimed musician Rhiannon Giddens spent years perfecting a flawless recipe for the iconic Southern food",
+            "10 May 2025\nTravel\nWhat happens to family recipes when home is lost?\nA new book uses food to help humanise the people and places impacted by war",
+            "8 days ago\nTravel\nThe flawless biscuit that took years to master\nAcclaimed musician Rhiannon Giddens spent years perfecting a flawless recipe for the iconic Southern food"
+          ],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Culture & Experiences",
+      "article_url": "https://www.bbc.com/travel/cultural-experiences",
+      "impacts": []
+    },
+    {
+      "article_title": "Adventures",
+      "article_url": "https://www.bbc.com/travel/adventures",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 9.94,
+          "confidence_score": 0.274,
+          "key_factors": [
+            "sustainable"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "The SpeciaList",
+      "article_url": "https://www.bbc.com/travel/specialist",
+      "impacts": [
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.35,
+          "confidence_score": 0.26,
+          "key_factors": [],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Natural Wonders",
+      "article_url": "https://www.bbc.com/future-planet/natural-wonders",
+      "impacts": []
+    },
+    {
+      "article_title": "Weather & Science",
+      "article_url": "https://www.bbc.com/future-planet/weather-science",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 19.31,
+          "confidence_score": 0.394,
+          "key_factors": [],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 9.8,
+          "confidence_score": 0.23,
+          "key_factors": [
+            "weather",
+            "drought",
+            "climate change"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Climate Solutions",
+      "article_url": "https://www.bbc.com/future-planet/solutions",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 25.34,
+          "confidence_score": 0.534,
+          "key_factors": [
+            "clean energy",
+            "Climate Solutions\nThe Soviet nuclear plan to reverse Siberian rivers\nIn the 1970s, the USSR used nuclear devices to try to send water from Siberia's rivers flowing south, instead of its natural route north"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 22.4,
+          "confidence_score": 0.47,
+          "key_factors": [
+            "weather"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 11.07,
+          "confidence_score": 0.282,
+          "key_factors": [
+            "sustainable",
+            "waste"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 10.85,
+          "confidence_score": 0.277,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Sustainable Business",
+      "article_url": "https://www.bbc.com/future-planet/sustainable-business",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 17.58,
+          "confidence_score": 0.394,
+          "key_factors": [
+            "Can green tech steer Africa towards the future?\n9 May 2025\nFuture\nChina's alternative to charging electric cars\nA new fully charged EV battery in five minutes – are China's swap stations the future of electric cars?\n6 May 2025\nFuture\nLatest news\nBattery farms are 'emerging risk', says fire chief\n3 hrs ago\nSuffolk\nRamsay to meet fire chief over battery farm safety\n3 hrs ago\nNorfolk\nWind turbines power 'surprising' tourism boom\n1 day ago\nEngland\nCoal mine flood water used in first heating scheme\n1 day ago\nWales\nMajor solar farm proposal on pause 'indefinitely'\n2 days ago\nSuffolk\nThoughtful travel\n8 ways to travel more sustainably in 2025\nFrom eco-tourism and Indigenous-led tours to low-impact journeys and mindful accommodation, these are some of the practical ways people are making travel more responsible this year"
+          ],
+          "impact_type": "neutral"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 10.62,
+          "confidence_score": 0.29,
+          "key_factors": [
+            "climate change"
+          ],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Green Living",
+      "article_url": "https://www.bbc.com/future-planet/green-living",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 19.46,
+          "confidence_score": 0.412,
+          "key_factors": [
+            "Green Living\nThis machine turns carbon dioxide into fuel\nResearchers have found a way to take carbon dioxide and turn it into syngas, creating carbon-neutral energy"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 14.6,
+          "confidence_score": 0.364,
+          "key_factors": [
+            "environmental",
+            "sustainable",
+            "waste",
+            "carbon footprint",
+            "See more\nPersonal Effects\nFur is back in fashion - and even more divisive\nIt's having a moment with celebrities and Gen Z"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Podcasts",
+      "article_url": "https://www.bbc.com/audio/categories",
+      "impacts": []
+    },
+    {
+      "article_title": "Radio Stations",
+      "article_url": "https://www.bbc.com/audio/stations",
+      "impacts": []
+    },
+    {
+      "article_title": "Live Now",
+      "article_url": "https://www.bbc.com/live/news",
+      "impacts": []
+    },
+    {
+      "article_title": "Recently Live",
+      "article_url": "https://www.bbc.com/live/sport",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.19,
+          "confidence_score": 0.256,
+          "key_factors": [
+            "See how it played out\nEngland beat Windies by 17 runs to claim T20 series clean sweep - as it happened\nFollow live text, radio commentary and in-play video clips as England face West Indies in the third T20 at Chelmsford"
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "BBC Weather",
+      "article_url": "https://www.bbc.com/weather",
+      "impacts": []
+    },
+    {
+      "article_title": "Dozens injured after car ploughs into Liverpool crowd as police say not terror-related",
+      "article_url": "https://www.bbc.com/news/live/cn5xnlkegz0t",
+      "impacts": []
+    },
+    {
+      "article_title": "What we know about the Liverpool FC parade incident",
+      "article_url": "https://www.bbc.com/news/articles/ce8209lzzp4o",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 9.48,
+          "confidence_score": 0.263,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Greek coastguards charged over 2023 migrant shipwreck",
+      "article_url": "https://www.bbc.com/news/articles/cp8yjlzd3pvo",
+      "impacts": [
+        {
+          "sector": "Transportation/Logistics",
+          "impact_percentage": 10.32,
+          "confidence_score": 0.283,
+          "key_factors": [],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 9.27,
+          "confidence_score": 0.258,
+          "key_factors": [
+            "\"It has taken us two years just for these charges to come, even though so many people witnessed what happened,\" one of the survivors said on Monday"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "India's ex-wrestling chief cleared in minor's sexual harassment case",
+      "article_url": "https://www.bbc.com/news/articles/cx2qd4k0nwqo",
+      "impacts": []
+    },
+    {
+      "article_title": "What you need to know ahead of South Korea's snap presidential election",
+      "article_url": "https://www.bbc.com/news/articles/c8e66565wj0o",
+      "impacts": []
+    },
+    {
+      "article_title": "Moment car drives into crowd at Liverpool trophy parade",
+      "article_url": "https://www.bbc.com/news/videos/c4grq15y6yeo",
+      "impacts": []
+    },
+    {
+      "article_title": "North Korea says US 'Golden Dome' risks 'space nuclear war'",
+      "article_url": "https://www.bbc.com/news/articles/cd0l4e0rnr1o",
+      "impacts": []
+    },
+    {
+      "article_title": "Nepal's 'Everest Man' sets record with 31st summit",
+      "article_url": "https://www.bbc.com/news/articles/cm2y70xknnyo",
+      "impacts": []
+    },
+    {
+      "article_title": "From prodigy to leader: Can Shubman Gill shape the future of Indian Test cricket?",
+      "article_url": "https://www.bbc.com/news/articles/cx2r532gjyno",
+      "impacts": []
+    },
+    {
+      "article_title": "King prepares to give key speech backing Canada",
+      "article_url": "https://www.bbc.com/news/articles/c9wgd98yr89o",
+      "impacts": []
+    },
+    {
+      "article_title": "Chinese-owned Volvo Cars to cut 3,000 jobs",
+      "article_url": "https://www.bbc.com/news/articles/c8jgrl1wde8o",
+      "impacts": []
+    },
+    {
+      "article_title": "BBC given rare access to search for Hezbollah positions with UN troops in Lebanon",
+      "article_url": "https://www.bbc.com/news/videos/cgj8vqng4vvo",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 21.03,
+          "confidence_score": 0.447,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "Far-right marchers attack Palestinians as Israel marks taking of Jerusalem",
+      "article_url": "https://www.bbc.com/news/articles/czelwkwn3y2o",
+      "impacts": []
+    },
+    {
+      "article_title": "Could Nigeria's careful ethnic balancing act be under threat?",
+      "article_url": "https://www.bbc.com/news/articles/ce9v2m7k988o",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 11.05,
+          "confidence_score": 0.275,
+          "key_factors": [
+            "Concerns about fairness in presidential appointments are not new, but a chorus of criticism is growing over President Bola Tinubu's picks, with some accusing the head of state – who has been in power for two years – of favouring people from his own Yoruba ethnic group"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Real Estate",
+          "impact_percentage": 9.5,
+          "confidence_score": 0.242,
+          "key_factors": [
+            "Could Nigeria's careful ethnic balancing act be under threat?\n9 hours ago\nShare\nSave\nMansur Abubakar\nBBC News, Abuja\nShare\nSave\nIn Nigerian politics, there has long been an informal understanding: presidential appointments should carefully balance the country's many ethnic and religious differences",
+            "Concerns about fairness in presidential appointments are not new, but a chorus of criticism is growing over President Bola Tinubu's picks, with some accusing the head of state – who has been in power for two years – of favouring people from his own Yoruba ethnic group"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "An Indian teacher was killed - then he got falsely labelled a \"terrorist\"",
+      "article_url": "https://www.bbc.com/news/articles/c17rw0vy0glo",
+      "impacts": [
+        {
+          "sector": "Technology/Digital Platforms",
+          "impact_percentage": 10.09,
+          "confidence_score": 0.277,
+          "key_factors": [],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "'My life was saved by a stranger on the other side of the world'",
+      "article_url": "https://www.bbc.com/news/articles/cpqe52pj1d2o",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 18.97,
+          "confidence_score": 0.426,
+          "key_factors": [
+            "Three years ago, Luke, who was then 28, was desperately ill in hospital with Hodgkin lymphoma"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Agriculture/Food",
+          "impact_percentage": 8.5,
+          "confidence_score": 0.24,
+          "key_factors": [],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "The people who think AI might become conscious",
+      "article_url": "https://www.bbc.com/news/articles/c0k3700zljjo",
+      "impacts": []
+    },
+    {
+      "article_title": "China student says college made her 'take off trousers' for period leave",
+      "article_url": "https://www.bbc.com/news/articles/c8jgmwymw8eo",
+      "impacts": [
+        {
+          "sector": "Healthcare",
+          "impact_percentage": 9.48,
+          "confidence_score": 0.263,
+          "key_factors": [],
+          "impact_type": "neutral"
+        }
+      ]
+    },
+    {
+      "article_title": "Humanoid robots fight in Chinese kick-boxing competition",
+      "article_url": "https://www.bbc.com/news/videos/cgeg2x3lwepo",
+      "impacts": []
+    },
+    {
+      "article_title": "Watch: Push in the face by wife was joke not domestic dispute, says Macron",
+      "article_url": "https://www.bbc.com/news/videos/c201e8g0yg3o",
+      "impacts": [
+        {
+          "sector": "Energy",
+          "impact_percentage": 9.19,
+          "confidence_score": 0.256,
+          "key_factors": [
+            "Elysee sources were quoted by French media as saying that what was caught on camera was \"a moment in which the president and his wife were unwinding by goofing about one last time before the start of the trip\" and Macron said they were \"just joking about as we do\""
+          ],
+          "impact_type": "positive"
+        }
+      ]
+    },
+    {
+      "article_title": "Moment truck explodes while driving through Chicago suburb",
+      "article_url": "https://www.bbc.com/news/videos/c4grjnd1dveo",
+      "impacts": [
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 9.77,
+          "confidence_score": 0.249,
+          "key_factors": [
+            "The blast in Addison scattered debris, including clothing and furniture, across the street and in front of homes"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "North Korea arrests senior official over warship launch failure",
+      "article_url": "https://www.bbc.com/news/articles/cwy3rr307qyo",
+      "impacts": []
+    },
+    {
+      "article_title": "Fake discounts on Shein 'breach law', EU says",
+      "article_url": "https://www.bbc.com/news/articles/c62vq1mnndno",
+      "impacts": [
+        {
+          "sector": "E-commerce/Online Retail",
+          "impact_percentage": 26.42,
+          "confidence_score": 0.581,
+          "key_factors": [
+            "regulation",
+            "law",
+            "compliance",
+            "fine",
+            "breach"
+          ],
+          "impact_type": "negative"
+        },
+        {
+          "sector": "Fashion/Apparel",
+          "impact_percentage": 12.1,
+          "confidence_score": 0.315,
+          "key_factors": [
+            "supply chain",
+            "sales",
+            "Fake discounts on Shein 'breach law', EU says\n17 hours ago\nShare\nSave\nMitchell Labiak\nBusiness reporter, BBC News\nShare\nSave\nFake discounts, pressure selling, and other practices on Chinese fast-fashion website Shein breach the law, the European Union (EU) has said"
+          ],
+          "impact_type": "negative"
+        }
+      ]
+    },
+    {
+      "article_title": "'Nowhere is safe' - Cameroonians trapped between separatists and soldiers",
+      "article_url": "https://www.bbc.com/news/articles/c6296pp1p6wo",
+      "impacts": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "Technology": {
+      "article_count": 1,
+      "average_short_term_growth": 8.0,
+      "average_long_term_growth": 45.0,
+      "sample_articles": [
+        "Taiwan News & Opinion"
+      ]
+    },
+    "Manufacturing": {
+      "article_count": 1,
+      "average_short_term_growth": 2.0,
+      "average_long_term_growth": 12.4,
+      "sample_articles": [
+        "Hong Kong Originals"
+      ]
+    },
+    "Energy": {
+      "article_count": 1,
+      "average_short_term_growth": 2.5,
+      "average_long_term_growth": 14.7,
+      "sample_articles": [
+        "Opinion"
+      ]
+    },
+    "Finance": {
+      "article_count": 2,
+      "average_short_term_growth": 3.0,
+      "average_long_term_growth": 20.0,
+      "sample_articles": [
+        "HKFP Lens",
+        "Hong Kong Free Press Transparency Report 2024"
+      ]
+    }
+  },
+  "detailed_analysis": {
+    "Technology": [
+      {
+        "article_title": "Taiwan News & Opinion",
+        "url": "https://hongkongfp.com/taiwan-news/",
+        "confidence": 75,
+        "short_term": 8.0,
+        "long_term": 45.0,
+        "trend": "\u2192"
+      }
+    ],
+    "Manufacturing": [
+      {
+        "article_title": "Hong Kong Originals",
+        "url": "https://hongkongfp.com/made-in-hong-kong/",
+        "confidence": 30,
+        "short_term": 2.0,
+        "long_term": 12.4,
+        "trend": "\u2191"
+      }
+    ],
+    "Energy": [
+      {
+        "article_title": "Opinion",
+        "url": "https://hongkongfp.com/comment-analysis/",
+        "confidence": 30,
+        "short_term": 2.5,
+        "long_term": 14.7,
+        "trend": "\u2193"
+      }
+    ],
+    "Finance": [
+      {
+        "article_title": "HKFP Lens",
+        "url": "https://hongkongfp.com/hkfp-lens/",
+        "confidence": 30,
+        "short_term": 3.0,
+        "long_term": 20.0,
+        "trend": "\u2192"
+      },
+      {
+        "article_title": "Hong Kong Free Press Transparency Report 2024",
+        "url": "https://hongkongfp.com/transparency/",
+        "confidence": 60,
+        "short_term": 3.0,
+        "long_term": 20.0,
+        "trend": "\u2192"
+      }
+    ]
+  }
+}
