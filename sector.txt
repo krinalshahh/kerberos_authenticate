@@ -1,0 +1,57 @@
+import numpy as np
+
+# Input data
+sentiment_class = -1  # Negative sentiment
+sentiment_confidence = 0.964918315410614  # High confidence (96.5%)
+
+sector_scores = {
+    'technology': 0.2827582955364126,
+    'financials': 0.2695496082365988,
+    'healthcare': 0.24379849241542816,
+    'energy': 0.3485716727431946
+}
+
+sector_performance_index = {
+    'technology': 0.046,    # +4.6%
+    'financials': -0.043,   # -4.3%
+    'healthcare': -0.025,   # -2.5%
+    'energy': 0.048         # +4.8%
+}
+
+# Calculate normalized sensitivity (0.5 to 1.0 range)
+max_score = max(sector_scores.values())
+min_score = min(sector_scores.values())
+sector_sensitivity = {sector: 0.5 + 0.5*(score-min_score)/(max_score-min_score) 
+                     for sector, score in sector_scores.items()}
+
+def calculate_performance_change(current_perf, sector_score, sensitivity):
+    """Calculate minimal negative change (0% to -3%)"""
+    # Base negative impact (capped at -3%)
+    base_impact = -0.03 * sentiment_confidence  # Max -2.89% impact
+    
+    # Weighted by both sector score and current performance
+    weight = (sector_score + abs(current_perf))/2
+    
+    # Final change (always negative, 0% to -3%)
+    predicted_change = base_impact * sensitivity * weight * 3
+    
+    # Apply constraints
+    predicted_change = max(predicted_change, -0.03)  # Never exceed -3%
+    if current_perf > 0:
+        predicted_change = max(predicted_change, -current_perf)  # Don't make positive performance negative
+    
+    return predicted_change
+
+# Generate predictions
+print("MINIMAL IMPACT SECTOR PREDICTIONS")
+print("---------------------------------")
+print(f"Market Sentiment: {'Negative' if sentiment_class < 0 else 'Positive'} ({sentiment_confidence:.1%} confidence)")
+print(f"\n{'Sector':<12} | {'Current':>8} | {'Change':>8} | {'New':>8} | {'Sensitivity':>12}")
+print("-"*60)
+
+for sector in sector_scores:
+    current = sector_performance_index[sector]
+    change = calculate_performance_change(current, sector_scores[sector], sector_sensitivity[sector])
+    new_perf = current + change
+    
+    print(f"{sector:<12} | {current:>+8.2%} | {change:>+8.2%} | {new_perf:>+8.2%} | {sector_sensitivity[sector]:>12.2f}")
